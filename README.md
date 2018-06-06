@@ -1,9 +1,10 @@
 ## Android面试题
 
-- [安全 反编译  加壳]()
-- [MVC MVP MVVM 区别  原理]()
+
+- [MVC MVP MVVM 区别  原理](https://github.com/LiangLuDev/AndroidInterview/blob/master/MVC%20MVP%20MVVM%20%E5%8C%BA%E5%88%AB%20%E5%8E%9F%E7%90%86.md)
 - [Retrofit 框架原理]()
 - [HTTPS加密原理解析](https://github.com/LiangLuDev/AndroidInterview/blob/master/HTTPS%E5%8A%A0%E5%AF%86%E5%8E%9F%E7%90%86%E8%A7%A3%E6%9E%90.md)
+- [安全 反编译  加壳]()
 - [Android Studio 3.0  api和implementation区别]()
 - [HandlerThread的原理和使用场景]()
 - [AsnycTask的原理和使用场景]()
