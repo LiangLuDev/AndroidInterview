@@ -6,6 +6,9 @@
 - [HTTPS加密原理解析](https://github.com/LiangLuDev/AndroidInterview/blob/master/HTTPS%E5%8A%A0%E5%AF%86%E5%8E%9F%E7%90%86%E8%A7%A3%E6%9E%90.md)
 - [安全 反编译  加壳]()
 - [Android Studio 3.0  api和implementation区别]()
+> - **api:** 完全等同于compile指令，没区别，你将所有的compile改成api，完全没有错。
+>
+> - **implementation:** 使用这个命令依赖的库，其他moudle不能使用此依赖
 - [HandlerThread的原理和使用场景]()
 - [AsnycTask的原理和使用场景]()
 - [Handler 、MessageQueue 、Looper三者的关系和原理]()
