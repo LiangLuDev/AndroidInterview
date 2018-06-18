@@ -2,17 +2,17 @@
 
 
 - [MVC MVP MVVM 区别  原理](https://github.com/LiangLuDev/AndroidInterview/blob/master/MVC%20MVP%20MVVM%20%E5%8C%BA%E5%88%AB%20%E5%8E%9F%E7%90%86.md)
-- [Retrofit 框架原理]()
+- [Retrofit 框架原理](https://github.com/LiangLuDev/AndroidInterview/blob/master/Retrofit%20%E6%A1%86%E6%9E%B6%E5%8E%9F%E7%90%86.md)
 - [HTTPS加密原理解析](https://github.com/LiangLuDev/AndroidInterview/blob/master/HTTPS%E5%8A%A0%E5%AF%86%E5%8E%9F%E7%90%86%E8%A7%A3%E6%9E%90.md)
-- [安全 反编译  加壳]()
 - [Android Studio 3.0  api和implementation区别]()
-> - **api:** 完全等同于compile指令，没区别，你将所有的compile改成api，完全没有错。
+>  - **api:** 完全等同于compile指令，没区别，你将所有的compile改成api，完全没有错。
 >
 > - **implementation:** 使用这个命令依赖的库，其他moudle不能使用此依赖
-- [HandlerThread的原理和使用场景]()
-- [AsnycTask的原理和使用场景]()
-- [Handler 、MessageQueue 、Looper三者的关系和原理]()
+- [HandlerThread的原理和使用场景](https://github.com/LiangLuDev/AndroidInterview/blob/master/HandlerThread%E7%9A%84%E5%8E%9F%E7%90%86%E5%92%8C%E4%BD%BF%E7%94%A8%E5%9C%BA%E6%99%AF.md)
+- [AsnycTask的原理和使用场景](https://github.com/LiangLuDev/AndroidInterview/blob/master/AsnycTask%E7%9A%84%E5%8E%9F%E7%90%86%E5%92%8C%E4%BD%BF%E7%94%A8%E5%9C%BA%E6%99%AF.md)
+- [Handler 、MessageQueue 、Looper三者的关系和原理](https://github.com/LiangLuDev/AndroidInterview/blob/master/Handler%20%E3%80%81MessageQueue%20%E3%80%81Looper%E4%B8%89%E8%80%85%E7%9A%84%E5%85%B3%E7%B3%BB%E5%92%8C%E5%8E%9F%E7%90%86.md)
 - [Android 插件化的原理]()
+- [安全 反编译  加壳]()
 - [热修复的原理]()
 - [应用程序崩溃统计以及数据分析]()
 - [Java GC 回收，如何判断对象存活]()
